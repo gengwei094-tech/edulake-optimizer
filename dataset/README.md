@@ -108,23 +108,6 @@ educational_storage_migration_dataset/
   match Table 8 and quantiles match Table 7; supports paired t-tests,
   Wilcoxon tests, and SLA-threshold analyses
 
-## Statistical Fidelity (from validation_report.csv)
-
-| Metric | Paper target | This dataset |
-|---|---|---|
-| Number of data objects | > 800,000 | 820,000 |
-| Total object volume | ~50 TB | 49.9 TB |
-| Object-size median / mean / P95 / max | 7.2 / 62.8 / 400 MB / 4.2 GB | 7.4 / 60.8 / 400.6 MB / 4.2 GB |
-| Size buckets (<40MB / 40–400 / 400MB–1GB / >1GB) | 78.6 / 16.4 / 3.8 / 1.2 % | 78.6 / 16.4 / 3.9 / 1.2 % |
-| Read / write share | 92.3 / 7.7 % | 90.9 / 9.1 % (request-weighted; day-weighted 7.6 %) |
-| Access share of top-5% / top-20% objects | 68.1 / 89.4 % | 68.3 / 89.4 % |
-| Zipf fitted exponent (head regression) | 1.32 | 1.34 |
-| Phase day share (regular / selection / exam / vacation / start) | 62.0 / 4.2 / 6.1 / 21.7 / 6.0 % | 62.1 / 4.1 / 5.9 / 22.0 / 5.9 % |
-| Daily-request ratio vs regular week (selection / exam / vacation) | 4.8x / 3.7x / 0.3x | 4.8x / 3.8x / 0.31x |
-| Write share by phase (regular / selection / exam) | 5.9 / 14.1 / 11.8 % | 5.9 / 14.0 / 11.8 % |
-| Missing records / anomalous requests | 0.34 / 0.12 % | discarded / removed per protocol |
-| Static-3T mean latency by phase | 82 / 285 / 223 / 31 / 187 ms | 82.0 / 285.0 / 223.0 / 31.0 / 187.0 ms |
-
 ## Reproduction Notes and Known Caveats
 
 1. **Zipf construction**: the paper's fitted alpha = 1.32 and the top-5% = 68.1%
