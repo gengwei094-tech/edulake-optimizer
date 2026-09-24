@@ -1,0 +1,8 @@
+﻿configuration,avg_latency_ms,sla(%),storage_cost(x)
+DQN-Full,37 ± 1.0,99.1 ± 0.1,0.76 ± 0.01
+- MSTP-LM,52 ± 1.6,96.8 ± 0.2,0.82 ± 0.01
+- MFD-VE,48 ± 1.4,97.5 ± 0.2,0.80 ± 0.01
+- Teaching association,43 ± 1.2,98.1 ± 0.2,0.78 ± 0.01
+- Curriculum learning,45 ± 1.3,97.8 ± 0.2,0.79 ± 0.01
+- Reward shaping,42 ± 1.2,98.4 ± 0.1,0.78 ± 0.01
+- Dual-stream architecture,44 ± 1.3,97.9 ± 0.2,0.79 ± 0.01
