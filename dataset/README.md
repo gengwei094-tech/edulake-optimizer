@@ -34,8 +34,6 @@ educational_storage_migration_dataset/
 │  │                                  cohort / activity weight)
 ├──  data_objects.csv.gz            Data-object table (820k objects: size /
 │                                      category / course / static-tier placement)
-├──  access_log_202309_202512.csv.gz  Request-level access log (3.72M records,
-│  │                                    cleaned; 2023-09 through 2025-12)
 ├──  load_series_5min.csv.gz          5-minute-granularity load series
 │  │                                    (MSTP-LM input; full-scale estimate column)
 ├──  daily_stats.csv                  Daily statistics (requests / write rate /
