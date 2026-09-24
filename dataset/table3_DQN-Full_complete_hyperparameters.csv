@@ -1,0 +1,24 @@
+﻿category,parameter,value
+Network,Q-network layers,4 x 512
+Network,Optimizer,Adam (lr = 3e-4)
+Network,Replay buffer size,2e5
+Network,Batch size,256
+Network,Target network update,Every 1000 steps (soft tau = 0.005)
+Network,epsilon-greedy decay,1.0 -> 0.05 over 5e4 steps
+Network,Discount gamma,0.95
+MSTP-LM,Input window,168 hours (7 days)
+MSTP-LM,Output horizon,24 hours
+MSTP-LM,Embedding dimension,64
+MSTP-LM,Attention heads,8
+MSTP-LM,Transformer layers,3
+MFD-VE,Frequency decay alpha,0.4
+MFD-VE,Recency decay beta,7 days
+MFD-VE,Association propagation depth,2
+DQN-SM,Max migrations per step M,50
+DQN-SM,Reward weights,"w1=0.5, w2=0.3, w3=0.2"
+Training,Random seeds,"{42, 123, 456, 789, 1024}"
+Training,Training episodes,1e5
+Training,Training wall-clock,~18 hours / GPU
+Training,Curriculum stages,4 (rule -> hybrid -> autonomous)
+Evaluation,Test periods,"2 (2025.07-09, 2025.10-12)"
+Evaluation,Repetitions,5 seeds x 2 periods = 10
