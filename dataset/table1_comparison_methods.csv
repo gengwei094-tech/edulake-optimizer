@@ -1,0 +1,10 @@
+﻿method,description
+Static-3T,"Static Layer 3 allocation, based on administrator-defined rules; no dynamic migration."
+LRU-Migrate,LRU-based migration; LRU queue divided into hot/warm/cold segments; longest-unaccessed data migrated down when higher tier is full.
+ARC-Migrate,Adaptive Replacement Cache (ARC) based migration; balances frequency and recency to adapt to dynamic access patterns.
+RF-Migrate,"Random-Forest classifier using hand-crafted features (access frequency, last access time, data size) to predict future access probability."
+RF-Migrate+MSTP,RF-Migrate with the same MSTP-LM feature vector as DQN-Full; only the decision framework differs (RF vs. DQN).
+DQN-Base,"Standard DQN transfer strategy, without MSTP-LM and MFD-VE."
+PPO,Same state/action space and MSTP-LM features as DQN-Full; only the decision framework differs.
+DQN-MFD,"DQN + MFD-VE, without the instructional-cycle features of MSTP-LM."
+DQN-Full,Complete framework of this paper (DQN + MSTP-LM + MFD-VE).
