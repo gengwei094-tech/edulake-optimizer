@@ -14,8 +14,6 @@ DQN-SM storage migration decisions.
 > preserved under sampling. The data are **entirely synthetic** and contain no
 > real faculty or student information.
 
-- Generation script: `scripts/generate_dataset.py` (in the working directory),
-  random seed 42, fully deterministic and reproducible
 - Time span: 2023-09-01 to 2025-12-31 (28 months, 853 days)
 - Scale: 820,000 data objects (~49.9 TB), 14,200 students (anonymized), 215 courses
 - ID anonymization: user/object/course IDs are truncated SHA-256 hashes
