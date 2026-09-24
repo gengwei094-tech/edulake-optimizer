@@ -28,43 +28,37 @@ DQN-SM storage migration decisions.
 ```
 educational_storage_migration_dataset/
 ├── README.md                          This file
-├── 01_metadata/
-│   ├── academic_calendar.csv          Teaching calendar (daily: date / phase /
-│   │                                  semester / weekend flag)
-│   ├── courses.csv                    Course table (215 courses with semester /
-│   │                                  school / course type)
-│   ├── users.csv                      User table (14,200 students with school /
-│   │                                  cohort / activity weight)
-│   └── data_objects.csv.gz            Data-object table (820k objects: size /
+├── academic_calendar.csv          Teaching calendar (daily: date / phase / semester / weekend flag)
+├──  courses.csv                    Course table (215 courses with semester / school / course type)
+├──   users.csv                      User table (14,200 students with school /
+│  │                                  cohort / activity weight)
+├──  data_objects.csv.gz            Data-object table (820k objects: size /
 │                                      category / course / static-tier placement)
-├── 02_access_logs/
-│   ├── access_log_202309_202512.csv.gz  Request-level access log (3.72M records,
-│   │                                    cleaned; 2023-09 through 2025-12)
-│   ├── load_series_5min.csv.gz          5-minute-granularity load series
-│   │                                    (MSTP-LM input; full-scale estimate column)
-│   ├── daily_stats.csv                  Daily statistics (requests / write rate /
-│   │                                    mean latency / distinct objects & users)
-│   └── excluded_anomaly_records.csv     Removed anomalous requests (samples of
-│   │                                    >60 s or <0.1 ms responses)
-├── 03_method_performance_results/
-│   ├── table1_comparison_methods.csv          Table 1: overview of baselines
-│   ├── table2_hyperparameters_and_tuning_budgets.csv   Table 2: hyperparameters
-│   ├── table3_DQN-Full_complete_hyperparameters.csv    Table 3: DQN-Full config
-│   ├── table4_load_forecasting_performance.csv         Table 4: MSTP-LM ablation
-│   ├── table5_data_valuation_methods.csv               Table 5: MFD-VE comparison
-│   ├── table6_overall_migration_performance.csv        Table 6: overall results
-│   ├── table7_latency_distribution.csv                 Table 7: latency quantiles
-│   ├── table8_latency_by_teaching_phase.csv            Table 8: per-phase latency
-│   ├── table9_ablation_study.csv                       Table 9: ablation results
-│   └── latency_samples_by_method.csv                   Per-method latency samples
+├──  access_log_202309_202512.csv.gz  Request-level access log (3.72M records,
+│  │                                    cleaned; 2023-09 through 2025-12)
+├──  load_series_5min.csv.gz          5-minute-granularity load series
+│  │                                    (MSTP-LM input; full-scale estimate column)
+├──  daily_stats.csv                  Daily statistics (requests / write rate /
+│  │                                    mean latency / distinct objects & users)
+├──  excluded_anomaly_records.csv     Removed anomalous requests (samples of
+│  │                                    >60 s or <0.1 ms responses)
+├──  table1_comparison_methods.csv          Table 1: overview of baselines
+├──  table2_hyperparameters_and_tuning_budgets.csv   Table 2: hyperparameters
+├──  table3_DQN-Full_complete_hyperparameters.csv    Table 3: DQN-Full config
+├──  table4_load_forecasting_performance.csv         Table 4: MSTP-LM ablation
+├──  table5_data_valuation_methods.csv               Table 5: MFD-VE comparison
+├──  table6_overall_migration_performance.csv        Table 6: overall results
+├──  table7_latency_distribution.csv                 Table 7: latency quantiles
+├──  table8_latency_by_teaching_phase.csv            Table 8: per-phase latency
+├──  table9_ablation_study.csv                       Table 9: ablation results
+├──  latency_samples_by_method.csv                   Per-method latency samples
 │                                                       (20,000 rows x 9 methods;
 │                                                       use for statistical tests)
-└── 04_data_valuation_samples/
-    └── valuation_dataset.csv           MFD-VE valuation samples: 60,000 objects
+├──  valuation_dataset.csv           MFD-VE valuation samples: 60,000 objects
                                         with frequency / recency / association
                                         features and hot/cold ground-truth labels
-└── 05_data_quality_and_validation/
-    └── validation_report.csv           Metric-by-metric target-vs-actual report
+
+├──  validation_report.csv           Metric-by-metric target-vs-actual report
 ```
 
 ## Schema Reference
