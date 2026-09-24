@@ -1,0 +1,9 @@
+﻿method,key_hyperparameters,random_seed,training_duration,tuning_budget
+DQN-Full,gamma=0.95; lr=3e-4; replay buffer=2e5; batch=256; eps 1.0->0.05 over 50k steps; target update every 1k steps,"{42,123,2024,7,99}",48 GPU-hours,200 Optuna trials
+PPO,gamma=0.99; GAE lambda=0.95; clip eps=0.2; lr=3e-4; rollout buffer=64; 10 epochs per update,"{42,123,2024,7,99}",48 GPU-hours,200 Optuna trials
+DQN-MFD,"Same as DQN-Full, with MSTP-LM teaching-cycle features removed","{42,123,2024,7,99}",48 GPU-hours,200 Optuna trials
+DQN-Base,"Same as DQN-Full, with MSTP-LM and MFD-VE removed","{42,123,2024,7,99}",48 GPU-hours,200 Optuna trials
+RF-Migrate,n_estimators=400; max_depth=18; min_samples_leaf=8; class_weight=balanced,"{42,123,2024,7,99}",1.2 CPU-hours,200 Optuna trials
+RF-Migrate+MSTP,n_estimators=500; max_depth=22; min_samples_leaf=4; class_weight=balanced; feature vector identical to DQN-Full,"{42,123,2024,7,99}",1.4 CPU-hours,200 Optuna trials
+LRU / ARC,"Cache capacities: 4 TB (NVMe) and 16 TB (SSD), consistent across all methods",-,-,Fixed (no tuning)
+Static-3T,Thresholds set by administrator preset rules,-,-,Fixed (no tuning)
