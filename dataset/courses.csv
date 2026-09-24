@@ -1,0 +1,216 @@
+﻿course_id,course_no,semester,department,course_type,capacity,popularity_weight
+3ad0c0074adf9ddc,CRS-0001,2024F,School of Information Engineering,General Foundation,257,1.08
+eb8855d0fd523e13,CRS-0002,2025S,School of Information Engineering,Major Core,148,0.59
+1830c9d78d3bfc1e,CRS-0003,2025F,School of Foreign Languages,Major Core,141,1.32
+ed1b15fcf854c750,CRS-0004,2024S,School of Applied Chemistry,General Foundation,230,1.438
+e02d3b996c65f950,CRS-0005,2025F,School of Applied Chemistry,Major Elective,196,0.391
+da1e7c7703f36e1e,CRS-0006,2023F,School of Foreign Languages,Major Core,82,0.524
+4f37a4e4f88f03f2,CRS-0007,2024F,School of Applied Chemistry,Major Core,73,0.998
+7f4ef957d1d89ab6,CRS-0008,2024F,School of Design & Arts,General Foundation,172,0.817
+6f3ad8f9400f7e09,CRS-0009,2023F,School of Information Engineering,General Foundation,50,0.935
+16c28278acd57802,CRS-0010,2023F,School of Food Science,General Elective,110,0.642
+2045b10062032292,CRS-0011,2024S,School of Civil Engineering,General Foundation,70,1.399
+16b813329acd83c5,CRS-0012,2025F,School of Information Engineering,General Foundation,44,1.337
+03d32b1b2ab281b3,CRS-0013,2024F,School of Economics,General Foundation,242,0.97
+5a625c1d746e4c96,CRS-0014,2025F,School of Foreign Languages,Major Core,59,1.564
+2f886df320b2a187,CRS-0015,2025S,School of Mechanical Engineering,Major Core,42,1.162
+af8389cbb937077f,CRS-0016,2024F,School of Business Administration,Major Core,245,0.64
+42868bfb3fd8394e,CRS-0017,2025S,School of Mechanical Engineering,General Foundation,81,1.112
+6edbdb7c5523a59d,CRS-0018,2023F,School of Computer Science,General Foundation,219,0.612
+925c43819a14ca15,CRS-0019,2023F,School of Information Engineering,Major Elective,46,1.398
+177222f35a6e6013,CRS-0020,2025S,School of Foreign Languages,Major Core,73,0.921
+509f5da381db8ff8,CRS-0021,2025S,School of Applied Chemistry,Major Core,64,0.867
+c3766368c2551bed,CRS-0022,2024S,School of Education,Major Elective,195,0.693
+ed095d9f0f86358e,CRS-0023,2024F,School of Foreign Languages,Major Elective,176,1.633
+4b308067923f2085,CRS-0024,2024F,School of Design & Arts,General Foundation,144,0.879
+1c2ae742e8a3617e,CRS-0025,2025S,School of Applied Chemistry,Major Core,93,0.777
+72e034ba87b8602b,CRS-0026,2024F,School of Mechanical Engineering,Major Core,59,0.804
+84ed49b0eb56c9e3,CRS-0027,2024S,School of Mechanical Engineering,Major Core,165,1.197
+2d7e8125d8eb7688,CRS-0028,2024S,School of Design & Arts,Major Elective,90,1.11
+97830a98ab463399,CRS-0029,2024S,School of Mechanical Engineering,Major Core,169,1.134
+ebda7aa381564c63,CRS-0030,2024F,School of Mechanical Engineering,Major Elective,191,1.143
+facd0db042a6880c,CRS-0031,2025S,School of Business Administration,Major Elective,226,2.469
+bf016e80952fbef8,CRS-0032,2024F,School of Food Science,Major Core,148,0.784
+8bd851da6e564289,CRS-0033,2024S,School of Civil Engineering,General Elective,41,0.748
+2fdb2d657a683697,CRS-0034,2024S,School of Foreign Languages,Major Core,101,0.653
+4fc300301db590a0,CRS-0035,2025S,School of Electrical Engineering,Major Elective,227,1.243
+5a2121589ae73c72,CRS-0036,2025S,School of Business Administration,Major Core,157,1.565
+269c42ec6a2edad8,CRS-0037,2023F,School of Electrical Engineering,Major Core,176,0.895
+d73ce682db2fc78b,CRS-0038,2023F,School of Information Engineering,Major Core,140,0.645
+573348618d714aab,CRS-0039,2024F,School of Economics,General Foundation,75,0.65
+d1a09b824d42d75b,CRS-0040,2023F,School of Business Administration,Major Core,237,1.262
+be96b3b644b24007,CRS-0041,2025S,School of Electrical Engineering,General Elective,210,1.316
+4ad7239b61242b1e,CRS-0042,2024S,School of Education,Major Core,258,1.203
+d32a0f2130dd0b97,CRS-0043,2023F,School of Design & Arts,General Foundation,228,0.698
+8a8b7e88b52d90f7,CRS-0044,2025F,School of Civil Engineering,Major Core,104,1.046
+f4e740b82318df49,CRS-0045,2023F,School of Applied Chemistry,General Foundation,95,0.993
+9bd3501630fb1021,CRS-0046,2024S,School of Economics,General Foundation,94,1.039
+73913dd5aaafbe3e,CRS-0047,2023F,School of Computer Science,General Elective,242,1.394
+a7637e7599c9e092,CRS-0048,2023F,School of Design & Arts,Major Core,162,1.042
+a89bd2da427906fb,CRS-0049,2023F,School of Food Science,Major Core,139,1.278
+5a90572283e45a1f,CRS-0050,2023F,School of Applied Chemistry,Major Core,253,0.971
+3a0a7d7b2e008f47,CRS-0051,2023F,School of Civil Engineering,General Foundation,172,1.073
+d5b0c2a5935c0510,CRS-0052,2023F,School of Information Engineering,General Foundation,240,1.251
+3200d75262e73d53,CRS-0053,2024F,School of Business Administration,Major Elective,256,0.489
+2ab51ba76d228037,CRS-0054,2025S,School of Education,Major Core,57,0.816
+b89f422d8a9f62ac,CRS-0055,2024S,School of Applied Chemistry,General Elective,119,0.762
+86cd05b4dc69d310,CRS-0056,2024S,School of Computer Science,Major Core,201,0.707
+b8fb82845a12f89e,CRS-0057,2024F,School of Civil Engineering,Major Core,218,0.832
+33dee8aea0e85b92,CRS-0058,2025S,School of Applied Chemistry,Major Elective,72,1.846
+ace519f0040ddb57,CRS-0059,2025S,School of Applied Chemistry,General Elective,110,0.638
+76a9aede19bbefbf,CRS-0060,2023F,School of Foreign Languages,Major Elective,160,1.456
+b9ad23577f2a7d16,CRS-0061,2023F,School of Computer Science,General Elective,215,0.442
+16c3894a6f74a960,CRS-0062,2024S,School of Design & Arts,Major Elective,64,0.81
+4aed653dd3d2d86e,CRS-0063,2024S,School of Civil Engineering,Major Elective,172,1.013
+41b9801fb8f8d58b,CRS-0064,2024F,School of Education,General Foundation,105,1.226
+fe14fcf289decc72,CRS-0065,2024S,School of Information Engineering,Major Elective,87,1.297
+0c7f63d243def603,CRS-0066,2023F,School of Information Engineering,Major Core,153,1.346
+eb29824e09b09b08,CRS-0067,2024S,School of Civil Engineering,Major Core,131,0.805
+e1bd207c90ad85ef,CRS-0068,2024F,School of Applied Chemistry,Major Elective,179,0.765
+1bec4f70b5f55e86,CRS-0069,2023F,School of Foreign Languages,General Elective,109,1.386
+0369c88da0a3b814,CRS-0070,2025S,School of Electrical Engineering,General Elective,221,0.864
+1af58d552df45604,CRS-0071,2023F,School of Food Science,General Foundation,57,0.53
+16801465dd7ada51,CRS-0072,2025F,School of Civil Engineering,Major Elective,229,0.566
+10061a32f07d6e64,CRS-0073,2023F,School of Information Engineering,Major Elective,46,0.623
+41a30ea4acf8e23c,CRS-0074,2025S,School of Information Engineering,Major Core,201,1.178
+e564501d558d12c6,CRS-0075,2025F,School of Education,General Foundation,116,1.004
+0df899d762f27e49,CRS-0076,2025F,School of Information Engineering,General Foundation,124,1.285
+cc32e4da043d2b80,CRS-0077,2025S,School of Education,Major Elective,44,0.777
+4437339296537a4b,CRS-0078,2025S,School of Computer Science,Major Core,194,1.011
+734ee4c63343e7ab,CRS-0079,2024F,School of Information Engineering,General Elective,76,1.248
+7d163412d4e81890,CRS-0080,2025S,School of Computer Science,Major Core,185,0.819
+8528d71804a08a5f,CRS-0081,2023F,School of Design & Arts,General Elective,199,1.157
+46c7799ed9b1c3ad,CRS-0082,2024F,School of Civil Engineering,Major Core,225,0.699
+05053b8fe67e1a53,CRS-0083,2024F,School of Economics,Major Elective,195,0.8
+c013b8e05e61c010,CRS-0084,2025S,School of Design & Arts,General Foundation,106,0.793
+6509e55b2e67f798,CRS-0085,2024F,School of Electrical Engineering,Major Core,202,0.55
+ea6efc6e46946428,CRS-0086,2024S,School of Design & Arts,Major Elective,221,1.173
+df07e71c81471091,CRS-0087,2024F,School of Education,General Elective,109,0.763
+d8351b48502d1aca,CRS-0088,2024S,School of Electrical Engineering,Major Elective,67,0.947
+414fc03289ed9088,CRS-0089,2023F,School of Information Engineering,General Foundation,235,1.169
+c13ed9ad1de59a20,CRS-0090,2024F,School of Electrical Engineering,Major Core,72,1.151
+ea1c483d095f25d7,CRS-0091,2024S,School of Food Science,General Foundation,170,1.271
+67fe051b3bc725ba,CRS-0092,2024S,School of Business Administration,General Foundation,91,0.901
+9e23419af015ecb3,CRS-0093,2024S,School of Education,Major Elective,67,0.778
+6b853ea18685d4d0,CRS-0094,2024S,School of Design & Arts,Major Elective,210,0.909
+0ef99458a0d0bd10,CRS-0095,2024S,School of Design & Arts,Major Elective,71,0.441
+b27dc22a1a835178,CRS-0096,2024S,School of Computer Science,Major Elective,187,0.491
+5d40daa4950f6a73,CRS-0097,2025S,School of Education,Major Elective,192,0.519
+1cc0fca44104ef86,CRS-0098,2024S,School of Mechanical Engineering,Major Elective,53,0.601
+508990bd129fd8cd,CRS-0099,2025F,School of Computer Science,General Foundation,78,1.127
+edb7afe9133b3be0,CRS-0100,2025F,School of Civil Engineering,General Foundation,214,0.627
+2c82cc69703b0375,CRS-0101,2024F,School of Civil Engineering,Major Core,151,0.794
+c2e92f86d2f15aca,CRS-0102,2024S,School of Civil Engineering,Major Elective,66,1.69
+7ab34ea1de68c5a2,CRS-0103,2024F,School of Information Engineering,General Foundation,258,0.802
+a8c38132fabd2ef8,CRS-0104,2025S,School of Business Administration,Major Core,98,1.313
+c17e1cc79eb16f36,CRS-0105,2024F,School of Information Engineering,Major Elective,40,0.619
+1cb13ec9b34abfa2,CRS-0106,2025S,School of Applied Chemistry,General Foundation,243,0.859
+b52ae67d09e242c1,CRS-0107,2024F,School of Electrical Engineering,Major Core,43,0.614
+d28b717b793966d4,CRS-0108,2024F,School of Applied Chemistry,Major Elective,161,0.809
+78332598bcf3c64a,CRS-0109,2024S,School of Design & Arts,Major Elective,258,1.375
+1e549072c88f4cfd,CRS-0110,2025S,School of Foreign Languages,General Foundation,167,0.433
+47af400cd250aa1b,CRS-0111,2023F,School of Applied Chemistry,Major Elective,168,1.145
+b226579cff6a8ae6,CRS-0112,2025S,School of Design & Arts,Major Core,125,1.048
+7dcd0b7f5c539a77,CRS-0113,2025S,School of Design & Arts,Major Elective,67,0.721
+99f50e96f7fcfbe0,CRS-0114,2023F,School of Design & Arts,General Foundation,165,0.491
+fdbfec5902c59f51,CRS-0115,2024F,School of Design & Arts,Major Core,237,0.973
+6f685b094708f0b9,CRS-0116,2023F,School of Computer Science,Major Core,60,0.742
+e071d15a8a7b6a14,CRS-0117,2025S,School of Business Administration,General Foundation,233,1.046
+b8a382116cef6f0f,CRS-0118,2023F,School of Economics,Major Elective,131,0.951
+00af4dae5788ea8a,CRS-0119,2025F,School of Electrical Engineering,General Foundation,157,1.937
+e83047c239389e78,CRS-0120,2023F,School of Applied Chemistry,General Foundation,76,0.846
+a1c7484032d7f6ac,CRS-0121,2025F,School of Business Administration,Major Core,176,0.594
+ce2da181e736d848,CRS-0122,2025S,School of Civil Engineering,Major Elective,80,1.021
+313f4a2d57b23755,CRS-0123,2024F,School of Applied Chemistry,Major Elective,100,1.04
+8632e76d6f0cf7f8,CRS-0124,2025S,School of Design & Arts,General Elective,198,1.736
+7323f444df5a6c4a,CRS-0125,2025S,School of Applied Chemistry,General Foundation,51,1.371
+9c83efb51e845c9d,CRS-0126,2025F,School of Electrical Engineering,Major Core,138,1.106
+c47900dbc0e95cfe,CRS-0127,2024S,School of Education,General Foundation,170,1.82
+e1a10ce4c1244cdc,CRS-0128,2024F,School of Applied Chemistry,Major Core,69,0.552
+6b4a1b6567e87d0d,CRS-0129,2023F,School of Economics,General Elective,104,0.706
+7b05c838d3e89d02,CRS-0130,2024F,School of Foreign Languages,Major Elective,115,0.621
+1b0b3b46bbcefb4d,CRS-0131,2023F,School of Applied Chemistry,Major Core,185,0.79
+ea48983b25c40b91,CRS-0132,2024F,School of Food Science,Major Core,254,0.507
+ea167491bafd6574,CRS-0133,2024F,School of Information Engineering,General Elective,223,1.253
+321454a6a5662c85,CRS-0134,2024F,School of Education,Major Core,81,0.852
+da76bcc8f4bc025b,CRS-0135,2024F,School of Food Science,General Foundation,43,0.486
+8e78469a70315cf6,CRS-0136,2025S,School of Applied Chemistry,Major Core,51,0.596
+8d74f37767ad7472,CRS-0137,2025S,School of Foreign Languages,General Foundation,171,1.085
+a04ed6ee985d5e5d,CRS-0138,2024F,School of Applied Chemistry,General Foundation,74,1.373
+571a4b973a2dc01d,CRS-0139,2024F,School of Computer Science,General Foundation,90,2.313
+cea688b9a6d67583,CRS-0140,2025F,School of Economics,Major Core,226,3.495
+4b0ccc6d9f816453,CRS-0141,2023F,School of Business Administration,Major Core,232,1.135
+5d08c9104c71cecb,CRS-0142,2023F,School of Computer Science,Major Core,224,0.603
+8cf15ad3b95918a7,CRS-0143,2023F,School of Applied Chemistry,Major Core,95,0.361
+f5662b6d122d8f5b,CRS-0144,2024F,School of Food Science,General Elective,176,1.062
+b9b10b7882e3282a,CRS-0145,2024S,School of Electrical Engineering,Major Elective,174,0.653
+2306ffc537533f15,CRS-0146,2025S,School of Civil Engineering,Major Core,80,0.781
+c15f5b32f70f20b2,CRS-0147,2025S,School of Mechanical Engineering,General Foundation,161,0.715
+b04d89a5728c89e9,CRS-0148,2024S,School of Information Engineering,Major Elective,155,0.884
+c4ec220862c2342c,CRS-0149,2025F,School of Mechanical Engineering,General Foundation,127,1.522
+b5502d580cc06b77,CRS-0150,2025S,School of Mechanical Engineering,Major Core,205,1.011
+c868e5fe6181457c,CRS-0151,2024S,School of Food Science,General Elective,189,0.877
+03bd11ccc318092b,CRS-0152,2024S,School of Food Science,Major Core,157,0.591
+a5a904b71eae6488,CRS-0153,2024S,School of Economics,Major Elective,199,0.443
+904721d37234817c,CRS-0154,2023F,School of Mechanical Engineering,Major Core,207,0.757
+3c0fa05af17095fd,CRS-0155,2023F,School of Mechanical Engineering,Major Elective,164,0.919
+e3d7132fc56c8b3b,CRS-0156,2025F,School of Computer Science,General Foundation,98,2.087
+4558b3561c62c313,CRS-0157,2024S,School of Applied Chemistry,General Foundation,206,0.999
+d489ae66a6688343,CRS-0158,2024S,School of Electrical Engineering,Major Core,197,1.466
+a5c2b9662e60d3c0,CRS-0159,2025S,School of Civil Engineering,General Foundation,256,0.752
+410e254f59e8725e,CRS-0160,2024F,School of Business Administration,Major Elective,72,0.553
+369bf71d19d43f32,CRS-0161,2025F,School of Foreign Languages,General Foundation,132,0.61
+3204dae24a16c94d,CRS-0162,2025S,School of Computer Science,Major Core,243,0.68
+905b73469fcb56db,CRS-0163,2024F,School of Mechanical Engineering,Major Elective,153,2.454
+3eb1b71d66eef466,CRS-0164,2024S,School of Foreign Languages,Major Elective,247,0.651
+e9bd82c2fe6ff3ff,CRS-0165,2025F,School of Food Science,Major Core,42,1.374
+e9ffd06158e6b10f,CRS-0166,2025S,School of Mechanical Engineering,Major Core,47,0.627
+3d2ee09f62a44aef,CRS-0167,2025F,School of Civil Engineering,General Elective,215,1.432
+92998c14935b8b6e,CRS-0168,2023F,School of Economics,Major Elective,118,1.12
+39b4b8c64ddcb028,CRS-0169,2025S,School of Foreign Languages,Major Elective,154,0.878
+9067bea7b6dab176,CRS-0170,2024F,School of Food Science,General Elective,134,0.925
+450452f44100459c,CRS-0171,2023F,School of Electrical Engineering,Major Elective,129,0.701
+937e072bbc67396d,CRS-0172,2024F,School of Electrical Engineering,General Foundation,246,1.151
+80ee204f4fa5ae48,CRS-0173,2025S,School of Foreign Languages,Major Core,60,0.767
+1dae557deeb85d48,CRS-0174,2023F,School of Information Engineering,General Foundation,209,0.543
+87bfbee40cad8e56,CRS-0175,2024F,School of Business Administration,Major Elective,235,0.53
+90eae1b970a0a5e5,CRS-0176,2025S,School of Design & Arts,General Elective,184,1.018
+1514acdea4b17a47,CRS-0177,2024S,School of Foreign Languages,Major Core,126,1.917
+453162f3a847a710,CRS-0178,2024F,School of Information Engineering,Major Core,75,1.012
+73aef6cbddf3cde2,CRS-0179,2024F,School of Applied Chemistry,General Foundation,190,0.893
+c9782ac56a6553f9,CRS-0180,2024S,School of Electrical Engineering,General Elective,143,1.071
+44301c57119a4762,CRS-0181,2025F,School of Applied Chemistry,General Foundation,72,1.695
+e834f61ba1a3cef5,CRS-0182,2025S,School of Education,General Foundation,119,1.04
+a219e796a9bd3c17,CRS-0183,2023F,School of Mechanical Engineering,General Foundation,251,0.783
+5ccaed55abe3ffdc,CRS-0184,2025F,School of Education,General Foundation,98,1.549
+85df5c636c5dca24,CRS-0185,2025S,School of Civil Engineering,Major Core,79,1.142
+0eb45c13ab06ea00,CRS-0186,2024S,School of Economics,Major Core,190,1.88
+d414b2bc2db72d44,CRS-0187,2025S,School of Civil Engineering,Major Core,83,1.023
+474e9c2852b7d89a,CRS-0188,2023F,School of Computer Science,General Foundation,242,0.543
+e060c3475f5417d0,CRS-0189,2025F,School of Economics,General Foundation,228,0.509
+65298a2b28dcfa1e,CRS-0190,2025S,School of Foreign Languages,Major Core,256,1.98
+4afa3e3588323fe0,CRS-0191,2024F,School of Information Engineering,General Foundation,240,2.046
+21594e5a92cee062,CRS-0192,2023F,School of Foreign Languages,Major Elective,93,0.869
+50ab41c2d1c3e0af,CRS-0193,2025F,School of Economics,General Foundation,86,0.793
+10d9b448e2877062,CRS-0194,2023F,School of Electrical Engineering,Major Core,115,1.818
+c57d15778e5aab79,CRS-0195,2024S,School of Education,Major Core,143,0.572
+98e039659042f0d5,CRS-0196,2023F,School of Design & Arts,Major Core,233,0.63
+d053a538b3cac7db,CRS-0197,2025S,School of Electrical Engineering,General Foundation,201,1.258
+2be210c5af540cc7,CRS-0198,2023F,School of Mechanical Engineering,General Foundation,181,0.789
+4e3a635cec6cfd05,CRS-0199,2025F,School of Foreign Languages,Major Elective,233,0.94
+ad783e60ac2607ce,CRS-0200,2024F,School of Business Administration,General Foundation,182,0.875
+be596d11ed3a15eb,CRS-0201,2023F,School of Economics,Major Core,123,1.096
+006d1f148aff6db1,CRS-0202,2023F,School of Applied Chemistry,Major Core,130,1.774
+a7d6eb92e216d6bc,CRS-0203,2023F,School of Civil Engineering,Major Core,153,0.981
+4b49f809c25348f7,CRS-0204,2024F,School of Information Engineering,Major Core,59,1.258
+15130a0f00967ac5,CRS-0205,2025S,School of Foreign Languages,Major Elective,203,0.374
+ccbd83b2e1fb03b9,CRS-0206,2024S,School of Information Engineering,Major Elective,183,0.921
+c0caefb8b1a4ccef,CRS-0207,2025S,School of Civil Engineering,General Foundation,200,0.644
+61a0849b757d54f6,CRS-0208,2023F,School of Food Science,Major Core,157,0.544
+f2fe0901e97904e2,CRS-0209,2025S,School of Education,General Foundation,212,0.634
+3cf10b7f4b046d68,CRS-0210,2025F,School of Education,Major Core,248,0.81
+2b4e3674e2cb461a,CRS-0211,2025S,School of Education,Major Elective,165,1.422
+ff908f573ba3e326,CRS-0212,2025S,School of Applied Chemistry,General Foundation,137,0.519
+87c843a9dd319456,CRS-0213,2025S,School of Business Administration,Major Core,63,0.955
+25fb5f44e017c692,CRS-0214,2023F,School of Food Science,General Elective,211,0.757
+04cc333ee6cf3edb,CRS-0215,2023F,School of Economics,General Foundation,238,0.813
