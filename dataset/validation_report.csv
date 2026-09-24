@@ -1,0 +1,41 @@
+﻿metric,target,actual,note
+Number of data objects,"> 800,000","820,000",
+"Total object volume (TB, 1TB=1e6MB)",approx. 50,49.9,
+Object-size median (MB),7.2,7.4,
+Object-size mean (MB),62.8,60.84,
+Object-size P95 (MB),400,400.6,
+Object-size maximum (GB),4.2,4.1,
+Objects < 40 MB (%),78.6,78.61,
+Objects 40-400 MB (%),16.4,16.37,
+Objects 400MB-1GB (%),3.8,3.87,
+Objects > 1GB (%),1.2,1.15,
+Access share of top-5% objects (%),68.1,68.3,
+Access share of top-20% objects (%),89.4,89.4,
+Zipf fitted exponent alpha (top-500 head regression),1.32,1.34,
+"Zipf fitted exponent alpha (top-5000 regression, reference)",-,0.62,A pure Zipf is incompatible with the 68.1% concentration; a hybrid head-Zipf + flat-tail construction is used
+"Total requests over 28 months (log scale, x10 approx. full scale)",-,"3,720,930",
+regular week day share (%),62.0,62.1,
+selection week day share (%),4.2,4.1,
+selection week daily requests / regular (x),4.8,4.8,
+exam week day share (%),6.1,5.9,
+exam week daily requests / regular (x),3.7,3.6,
+vacation week day share (%),21.7,22.0,
+vacation week daily requests / regular (x),0.3,0.31,
+start week day share (%),6.0,5.9,
+start week daily requests / regular (x),1.8,1.76,
+Write share in regular weeks (%),5.9,5.91,
+Write share in selection weeks (%),14.1,14.1,
+Write share in exam weeks (%),11.8,11.79,
+Write share in vacation weeks (%),8.5,8.61,
+Write share in start weeks (%),14.0,13.92,
+"Overall write share (%, approx. day-weighted)",7.7,7.66,Paper reports the day-averaged figure
+"Overall write share (%, request-weighted)",-,9.12,Higher because high-load phases carry more weight
+"Missing-record rate (%, discarded)",0.34,-,"Discarded approx. 12,709"
+"Anomalous-request rate (%, removed)",0.12,-,"Removed approx. 4,485"
+Kept requests after cleaning,-,"3,720,930",
+Static-3T mean latency in regular weeks (ms),82,82.0,
+Static-3T mean latency in selection weeks (ms),285,285.0,
+Static-3T mean latency in exam weeks (ms),223,223.0,
+Static-3T mean latency in vacation weeks (ms),31,31.0,
+Static-3T mean latency in start weeks (ms),187,187.0,
+"Static-3T overall mean latency (ms, request-weighted)",-,146.3,Paper Table 6 reports 128 ms while Table 8 implies approx. 94 ms day-weighted; internally inconsistent
